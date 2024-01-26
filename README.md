@@ -7,8 +7,11 @@ My journey has been marked by a dedication to continuous learning, a love for pr
 
 ## My Tech Stack 💪
 Frontend : HTML, CSS, XAML, XML.
+
 Backend : Java, C#, Kotlin, SQL, Oracle, NoSQL.
+
 Technologies: .Net, Visual Studio, VS Code, Android Studio, NetBeans, Micrsoft SQL Sever Management Studio, Oracle Database, Firebase Database.
+
 Projects: You'll find a variety of projects in my repositories, ranging from console applications to mobile applications.
 
 Language TO DO List:
