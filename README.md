@@ -22,7 +22,7 @@ Language TO DO List:
 - [ ] Python
 
 ## My Passion 👨‍💻
-I am particularly _enthusiastic_ about _backend development_ as I enjoy creating robust algorithms that turn medicore applications into innovative efficeint applications.
+I am particularly **enthusiastic** about **backend development** as I enjoy creating robust algorithms that turn medicore applications into innovative efficeint applications.
 I thrive on collaborating with like-minded individuals who are willing to go the extra mile to turn ideas into reality.
 
 ## Let's Connect 🤝
