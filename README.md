@@ -13,10 +13,10 @@ Projects: You'll find a variety of projects in my repositories, ranging from con
 
 Language TO DO List:
 
-- [] JavaScript
-- [] React
-- [] Angular
-- [] Python
+- [ ] JavaScript
+- [ ] React
+- [ ] Angular
+- [ ] Python
 
 ## My Passion 👨‍💻
 I am particularly enthusiastic about backend development as I enjoy creating robust algorithms that turn medicore applications into innovative efficeint applications.
