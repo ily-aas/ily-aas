@@ -2,17 +2,17 @@
 I'm ilyaas, a passionate software developer on a mission to create innovative solutions and contribute to the world of technology. Welcome to my GitHub profile!
 
 ## About me 👨‍🎓
-I hold a _Diploma (NQF 6) in Information Technology in Software Development_ and hold 3 years of *coding experience* in this field.
+I hold a **Diploma (NQF 6) in Information Technology in Software Development** and hold 3 years of _coding experience_ in this field.
 My journey has been marked by a dedication to continuous learning, a love for problem-solving, and a commitment to delivering high-quality code.
 
 ## My Tech Stack 💪
-Frontend : HTML, CSS, XAML, XML.
+**Frontend**: HTML, CSS, XAML, XML.
 
-Backend : Java, C#, Kotlin, SQL, Oracle, NoSQL.
+**Backend**: Java, C#, Kotlin, SQL, Oracle, NoSQL.
 
-Technologies: .Net, Visual Studio, VS Code, Android Studio, NetBeans, Micrsoft SQL Sever Management Studio, Oracle Database, Firebase Database.
+**Technologies**: .Net, Visual Studio, VS Code, Android Studio, NetBeans, Micrsoft SQL Sever Management Studio, Oracle Database, Firebase Database.
 
-Projects: You'll find a variety of projects in my repositories, ranging from console applications to mobile applications.
+**Projects**: You'll find a variety of projects in my repositories, ranging from console applications to mobile applications.
 
 Language TO DO List:
 
