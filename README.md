@@ -16,7 +16,7 @@ My journey has been marked by a dedication to continuous learning, a love for pr
 
 Language TO DO List:
 
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] React
 - [ ] Angular
 - [ ] Python
