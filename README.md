@@ -7,7 +7,7 @@ I hold a **Diploma (NQF 6) in Information Technology in Software Development** a
 Currently, I am pursuing an **Advanced Diploma in Applications Development (NQF 7)** to further enhance my skills. My journey has been driven by a passion for continuous learning, problem-solving, and delivering high-quality code.
 
 ## My Tech Stack 💪
-**Frontend**: HTML, CSS, XAML, XML.
+**Frontend**: HTML, CSS, XAML, XML, JS.
 
 **Backend**: Java, C#, Kotlin, SQL, Oracle, NoSQL.
 
