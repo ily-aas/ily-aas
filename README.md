@@ -2,9 +2,7 @@
 I'm ilyaas, a passionate software developer on a mission to create innovative solutions and contribute to the world of technology. Welcome to my GitHub profile!
 
 ## About me 👨‍🎓
-I hold a **Diploma (NQF 6) in Information Technology in Software Development** and have **one year of experience as a Junior Developer**, primarily working with the Microsoft tech stack.
-
-Currently, I am pursuing an **Advanced Diploma in Applications Development (NQF 7)** to further enhance my skills. My journey has been driven by a passion for continuous learning, problem-solving, and delivering high-quality code.
+I hold a **Advanced Diploma in Applications Development** and have **two years of experience as a Software Developer**, primarily working with the Microsoft tech stack.
 
 ## My Tech Stack 💪
 **Frontend**: HTML, CSS, XAML, XML, JS.
